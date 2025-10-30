@@ -21,8 +21,6 @@ energy-waste-disposal/
 │
 ├─ README.md # Project description and instructions
 ├─ notebook.ipynb # Main analysis notebook
-├─ data/ # Raw & processed data files (CSV, JSON etc.)
-├─ visuals/ # Exported plots, charts, images
 
 ## How to Run / Use
 
