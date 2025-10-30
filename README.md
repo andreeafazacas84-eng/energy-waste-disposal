@@ -22,6 +22,7 @@ energy-waste-disposal/
 ├─ README.md # Project description and instructions
 ├─ notebook.ipynb # Main analysis notebook
 
+
 ## How to Run / Use
 
 1. Clone the repository:  
