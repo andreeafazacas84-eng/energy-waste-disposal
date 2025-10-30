@@ -34,8 +34,6 @@ energy-waste-disposal/
 3. Open and run the notebook:  
    Use Jupyter Notebook or JupyterLab to explore step by step.
 
-4. Inspect the visual outputs in `visuals/` or open exported dashboards in `export/`.
-
 ## Results & Insights
 
 - Identified correlations between energy usage and waste metrics  
